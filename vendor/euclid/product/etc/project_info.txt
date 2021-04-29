@@ -1,0 +1,3 @@
+/proc/oppoVersion/prjName,/proc/oppoVersion/operatorName,project
+18041,5,18539
+18041,32,19609
